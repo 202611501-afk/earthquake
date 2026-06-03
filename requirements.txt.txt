@@ -1,6 +1,0 @@
-streamlit
-pandas
-joblib
-folium
-scikit-learn
-streamlit-folium
